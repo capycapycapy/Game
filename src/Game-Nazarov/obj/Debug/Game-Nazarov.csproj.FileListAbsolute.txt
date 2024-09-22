@@ -1,0 +1,7 @@
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\bin\Debug\Game-Nazarov.exe.config
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\bin\Debug\Game-Nazarov.exe
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\bin\Debug\Game-Nazarov.pdb
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\obj\Debug\Game-Nazarov.csproj.AssemblyReference.cache
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\obj\Debug\Game-Nazarov.csproj.CoreCompileInputs.cache
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\obj\Debug\Game-Nazarov.exe
+D:\College\programmModules\Game-Nazarov\Game-Nazarov\obj\Debug\Game-Nazarov.pdb
